@@ -12,5 +12,9 @@ public class Demo {
 		
 		System.out.println("Demo");
 	}
+	
+	public static int add(int a, int b) {
+		return a+b;
+	}
 
 }
