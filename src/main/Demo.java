@@ -11,6 +11,10 @@ public class Demo {
 		System.out.println("Welcome ENM Security Demo");
 		System.out.println("Master branch");
 		
+		System.out.println("Raising Gerrit request  .......................");
+		System.out.println("Demo 12345");
+		
+		System.out.println("Demo 1234");
 		System.out.println("Demo");
 	}
 	
